@@ -1,0 +1,32 @@
+{
+  "name": "skill-notify",
+  "version": "0.0.1",
+  "description": "notify skill",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melvincarvalho/skill-notify.git"
+  },
+  "keywords": [
+    "aam",
+    "skill",
+    "aam-skill"
+  ],
+  "author": "Melvin Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melvincarvalho/skill-notify/issues"
+  },
+  "homepage": "https://github.com/melvincarvalho/skill-notify#readme",
+  "dependencies": {
+    "cuid": "^2.1.8",
+    "ws": "^8.2.3"
+  }
+}
